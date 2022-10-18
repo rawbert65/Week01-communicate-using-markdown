@@ -1,3 +1,3 @@
 # <h1> Hello
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Iron Cat](https://octodex.github.com/images/ironcat.jpg)
