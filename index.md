@@ -6,3 +6,7 @@
 ```
 The repository for this file is Week01-communicate-using-markdown
 ```
+
+- [x] Check out code
+- [x] Relay data
+- [ ] Test Code
